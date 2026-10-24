@@ -1,0 +1,7 @@
+pandas>=2.2,<3
+pyarrow>=16,<24
+PyYAML>=6,<7
+python-dateutil>=2.9,<3
+Flask>=3.1,<4
+gunicorn>=23,<27
+pytest>=8,<10

@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Bookstore Analytics</title>
+    <link rel="stylesheet" href="style.css?v=project3" />
+  </head>
+  <body>
+    <aside class="rail">
+      <a class="brand" href="#" aria-label="Bookstore Analytics home"
+        >b<span>•</span></a
+      >
+      <div class="rail-label">ANALYTICS</div>
+      <nav aria-label="Main navigation">
+        <button class="nav active" data-tab="overview">
+          ◫ <span>Overview</span></button
+        ><button class="nav" data-tab="customers">
+          ♙ <span>Customers</span></button
+        ><button class="nav" data-tab="authors">▤ <span>Authors</span></button>
+      </nav>
+      <div class="rail-bottom">
+        <span class="status-dot"></span> Bookstore data analysis<small
+          >Task 4 · Data Engineering</small
+        >
+      </div>
+    </aside>
+    <main>
+      <header>
+        <div>
+          <div class="eyebrow">TASK 4 / STORE ANALYSIS</div>
+          <h1 id="page-title">Store overview</h1>
+          <p class="sub">Sales, customers and authors across five stores.</p>
+        </div>
+        <div class="header-actions">
+          <label for="store">SELECT STORE<select id="store"></select></label
+          ><button id="export" class="outline">↓ Export daily CSV</button>
+        </div>
+      </header>
+      <div class="context">
+        <span class="status-dot"></span><span id="period">Loading data…</span
+        ><span class="exchange">All prices in USD · €1 = $1.20</span>
+      </div>
+      <div id="error" role="alert" hidden></div>
+      <section
+        id="metrics"
+        class="metrics"
+        aria-label="Store metrics"
+      ></section>
+      <section id="overview" class="view">
+        <article class="panel">
+          <div class="panel-head">
+            <div>
+              <div class="eyebrow">SALES PERFORMANCE</div>
+              <h2>Daily revenue</h2>
+            </div>
+            <label class="compact"
+              >Chart range<select id="range">
+                <option value="all">All dates</option>
+                <option value="90">Last 90 days</option>
+                <option value="30">Last 30 days</option>
+              </select></label
+            >
+          </div>
+          <div id="revenue-chart" class="chart"></div>
+          <p class="chart-note">
+            Daily sales, including days with no orders. Hover or focus a point
+            to inspect it.
+          </p>
+        </article>
+        <div class="two-col">
+          <article class="panel">
+            <div class="eyebrow">TOP REVENUE DAYS · ALL DATES</div>
+            <h2>Top 5 days by revenue</h2>
+            <div id="top-days"></div>
+          </article>
+          <article class="panel highlight">
+            <div class="eyebrow">TOP CUSTOMER · ALL DATES</div>
+            <h2>Best buyer</h2>
+            <div id="best-buyer"></div>
+            <div class="divider"></div>
+            <div class="eyebrow">TOP AUTHOR SET · ALL DATES</div>
+            <div id="popular-author"></div>
+          </article>
+        </div>
+      </section>
+      <section id="customers" class="view" hidden>
+        <div class="two-col">
+          <article class="panel">
+            <div class="eyebrow">CUSTOMER VALUE</div>
+            <h2>Top 10 customers by spending</h2>
+            <div id="customer-chart"></div>
+          </article>
+          <article class="panel">
+            <div class="eyebrow">IDENTITY RESOLUTION</div>
+            <h2>Customer matching</h2>
+            <p>
+              Profiles are linked when at least three known fields match: name,
+              address, phone and email. Phone punctuation and text casing are
+              normalized.
+            </p>
+            <p>
+              Any one field may change. Connected profiles form a single
+              customer; all their orders contribute to the spending total.
+              Missing fields do not count as matches.
+            </p>
+            <div id="identity-summary"></div>
+          </article>
+        </div>
+        <article class="panel">
+          <h2>Top 20 customers</h2>
+          <p class="muted">
+            Every listed ID belongs to the same reconciled buyer. Rankings cover
+            all dates.
+          </p>
+          <div id="customer-table" class="table-wrap"></div>
+        </article>
+      </section>
+      <section id="authors" class="view" hidden>
+        <div class="two-col">
+          <article class="panel">
+            <div class="eyebrow">BOOKS SOLD, NOT ORDER COUNT</div>
+            <h2>Most popular author sets</h2>
+            <div id="author-chart"></div>
+          </article>
+          <article class="panel">
+            <div class="eyebrow">CATALOG LOGIC</div>
+            <h2>Counting author sets</h2>
+            <p>
+              John alone, Paul alone, and John with Paul are three distinct
+              author sets.
+            </p>
+            <p>
+              John + Paul and Paul + John are the same set. Authors are split at
+              commas, trimmed, deduplicated and sorted before counting. Catalog
+              counts include books with no sales.
+            </p>
+            <div id="author-summary"></div>
+          </article>
+        </div>
+        <article class="panel">
+          <h2>Top 20 author sets</h2>
+          <div id="author-table" class="table-wrap"></div>
+        </article>
+      </section>
+      <details class="panel quality">
+        <summary>
+          Data quality & calculation notes <span>View audit</span>
+        </summary>
+        <p>
+          Prices are parsed with decimal arithmetic. EUR unit prices are
+          converted to USD and rounded to cents before multiplying by quantity.
+          Slash dates use MM/DD/YY; dotted dates use DD.MM.YYYY. All timestamps
+          retain their supplied local calendar date. Invalid dates are left
+          missing.
+        </p>
+        <p>
+          Publication years outside 1–9999 are marked missing. Missing addresses
+          and shipping are retained as missing. Malformed orders are quarantined
+          rather than silently changed. Ties are preserved for the most popular
+          author set and the best buyer.
+        </p>
+        <div id="quality-table" class="table-wrap"></div>
+      </details>
+      <section class="panel assistant">
+        <div class="panel-head">
+          <div>
+            <div class="eyebrow">ASK THE DATA</div>
+            <h2>Analytics assistant</h2>
+          </div>
+          <span id="chat-status" class="badge">Checking connection</span>
+        </div>
+        <p class="muted">
+          Ask a question about revenue, customers or authors in the selected
+          store.
+        </p>
+        <div id="chat-messages" role="log" aria-live="polite"></div>
+        <form id="chat-form">
+          <label class="sr-only" for="question">Ask a question</label
+          ><input
+            id="question"
+            placeholder="Which day had the highest revenue in STORE1?"
+            maxlength="2000"
+            required
+          /><button class="primary" id="ask">Ask ↗</button>
+        </form>
+        <p id="chat-note" class="chart-note"></p>
+      </section>
+      <footer>
+        <span>Bookstore Analytics</span
+        ><span>Ainur Ali · Data Engineering</span>
+      </footer>
+    </main>
+    <script src="vendor/marked.umd.js"></script>
+    <script src="vendor/purify.min.js"></script>
+    <script src="chat-markdown.js"></script>
+    <script src="app.js?v=project3"></script>
+  </body>
+</html>

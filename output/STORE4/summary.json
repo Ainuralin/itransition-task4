@@ -1,0 +1,4336 @@
+{
+  "store": "STORE4",
+  "unique_users": 2850,
+  "unique_author_sets": 299,
+  "revenue_cents": 77828982,
+  "sold_books": 16599,
+  "order_count": 10877,
+  "top_days": [
+    {
+      "date": "2025-11-24",
+      "revenue": 4372.47
+    },
+    {
+      "date": "2025-11-17",
+      "revenue": 3818.3
+    },
+    {
+      "date": "2025-11-28",
+      "revenue": 3444.83
+    },
+    {
+      "date": "2025-11-13",
+      "revenue": 3401.08
+    },
+    {
+      "date": "2025-09-21",
+      "revenue": 3303.44
+    }
+  ],
+  "popular_authors": [
+    {
+      "authors": "Emil Rempel, Heriberto Kutch, Merle Rice",
+      "units": 198
+    }
+  ],
+  "best_buyers": [
+    {
+      "ids": [
+        53347,
+        54809
+      ],
+      "spent": 1265.65
+    }
+  ],
+  "daily": [
+    {
+      "date": "2024-11-16",
+      "revenue": 25.99,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-11-17",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-18",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-19",
+      "revenue": 40.8,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-11-20",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-21",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-22",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-23",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-24",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-25",
+      "revenue": 167.97,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2024-11-26",
+      "revenue": 71.75,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-11-27",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-28",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-29",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-11-30",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-01",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-02",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-03",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-04",
+      "revenue": 122.4,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-05",
+      "revenue": 80.39,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-06",
+      "revenue": 30.25,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-07",
+      "revenue": 263.25,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2024-12-08",
+      "revenue": 107.25,
+      "units": 3.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-09",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-10",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-11",
+      "revenue": 58.0,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-12",
+      "revenue": 98.0,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-13",
+      "revenue": 57.75,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-14",
+      "revenue": 27.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-15",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-16",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-17",
+      "revenue": 47.0,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-18",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-19",
+      "revenue": 258.6,
+      "units": 5.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2024-12-20",
+      "revenue": 217.8,
+      "units": 3.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-21",
+      "revenue": 26.99,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-22",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-23",
+      "revenue": 61.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-24",
+      "revenue": 124.99,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2024-12-25",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-26",
+      "revenue": 164.5,
+      "units": 5.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2024-12-27",
+      "revenue": 152.75,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2024-12-28",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2024-12-29",
+      "revenue": 48.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-30",
+      "revenue": 47.4,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2024-12-31",
+      "revenue": 82.29,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-01",
+      "revenue": 127.3,
+      "units": 4.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-02",
+      "revenue": 71.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-03",
+      "revenue": 115.0,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-04",
+      "revenue": 123.96,
+      "units": 4.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-05",
+      "revenue": 68.39,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-06",
+      "revenue": 141.6,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-07",
+      "revenue": 45.75,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-08",
+      "revenue": 119.24,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-09",
+      "revenue": 212.9,
+      "units": 6.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-10",
+      "revenue": 222.55,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-01-11",
+      "revenue": 271.5,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-12",
+      "revenue": 199.25,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-13",
+      "revenue": 45.6,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-14",
+      "revenue": 239.25,
+      "units": 6.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-15",
+      "revenue": 40.75,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-16",
+      "revenue": 140.25,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-17",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2025-01-18",
+      "revenue": 272.74,
+      "units": 7.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-01-19",
+      "revenue": 154.19,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-20",
+      "revenue": 359.1,
+      "units": 5.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-21",
+      "revenue": 223.75,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-22",
+      "revenue": 445.58,
+      "units": 9.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-23",
+      "revenue": 417.69,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-01-24",
+      "revenue": 360.0,
+      "units": 8.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-01-25",
+      "revenue": 461.8,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-01-26",
+      "revenue": 187.73,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-01-27",
+      "revenue": 89.98,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-28",
+      "revenue": 315.0,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-01-29",
+      "revenue": 76.8,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-01-30",
+      "revenue": 106.5,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-01-31",
+      "revenue": 319.19,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-01",
+      "revenue": 303.18,
+      "units": 7.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-02-02",
+      "revenue": 475.0,
+      "units": 9.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-03",
+      "revenue": 335.05,
+      "units": 7.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-02-04",
+      "revenue": 494.25,
+      "units": 9.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-05",
+      "revenue": 180.4,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-02-06",
+      "revenue": 635.7,
+      "units": 13.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-02-07",
+      "revenue": 20.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-02-08",
+      "revenue": 207.85,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2025-02-09",
+      "revenue": 340.83,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-02-10",
+      "revenue": 263.38,
+      "units": 7.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-02-11",
+      "revenue": 367.8,
+      "units": 11.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-02-12",
+      "revenue": 42.3,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2025-02-13",
+      "revenue": 592.56,
+      "units": 12.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-02-14",
+      "revenue": 598.91,
+      "units": 12.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-15",
+      "revenue": 393.68,
+      "units": 13.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-02-16",
+      "revenue": 234.99,
+      "units": 6.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-17",
+      "revenue": 309.78,
+      "units": 6.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-18",
+      "revenue": 365.75,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-19",
+      "revenue": 239.35,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-02-20",
+      "revenue": 269.04,
+      "units": 9.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-02-21",
+      "revenue": 484.09,
+      "units": 10.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-02-22",
+      "revenue": 288.54,
+      "units": 6.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-02-23",
+      "revenue": 309.22,
+      "units": 6.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-02-24",
+      "revenue": 576.27,
+      "units": 11.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-02-25",
+      "revenue": 351.85,
+      "units": 9.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-02-26",
+      "revenue": 294.5,
+      "units": 5.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-02-27",
+      "revenue": 295.49,
+      "units": 6.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-02-28",
+      "revenue": 191.0,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-03-01",
+      "revenue": 125.65,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-03-02",
+      "revenue": 260.99,
+      "units": 6.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-03-03",
+      "revenue": 356.4,
+      "units": 10.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-03-04",
+      "revenue": 253.2,
+      "units": 6.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-03-05",
+      "revenue": 283.68,
+      "units": 8.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2025-03-06",
+      "revenue": 263.17,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-03-07",
+      "revenue": 147.25,
+      "units": 5.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-03-08",
+      "revenue": 529.34,
+      "units": 9.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-03-09",
+      "revenue": 609.29,
+      "units": 10.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2025-03-10",
+      "revenue": 131.75,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-03-11",
+      "revenue": 357.19,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-03-12",
+      "revenue": 574.4,
+      "units": 10.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2025-03-13",
+      "revenue": 396.89,
+      "units": 6.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-03-14",
+      "revenue": 672.24,
+      "units": 17.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-03-15",
+      "revenue": 870.57,
+      "units": 20.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-03-16",
+      "revenue": 869.19,
+      "units": 20.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-03-17",
+      "revenue": 541.98,
+      "units": 14.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2025-03-18",
+      "revenue": 351.1,
+      "units": 7.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-03-19",
+      "revenue": 494.5,
+      "units": 12.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2025-03-20",
+      "revenue": 364.62,
+      "units": 10.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-03-21",
+      "revenue": 715.94,
+      "units": 15.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-03-22",
+      "revenue": 473.29,
+      "units": 15.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-03-23",
+      "revenue": 535.47,
+      "units": 10.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-03-24",
+      "revenue": 597.15,
+      "units": 15.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-03-25",
+      "revenue": 543.24,
+      "units": 9.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-03-26",
+      "revenue": 308.04,
+      "units": 9.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2025-03-27",
+      "revenue": 499.23,
+      "units": 10.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-03-28",
+      "revenue": 508.33,
+      "units": 13.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-03-29",
+      "revenue": 655.44,
+      "units": 16.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-03-30",
+      "revenue": 1057.06,
+      "units": 20.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2025-03-31",
+      "revenue": 135.75,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-04-01",
+      "revenue": 352.43,
+      "units": 7.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-04-02",
+      "revenue": 515.89,
+      "units": 12.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-04-03",
+      "revenue": 407.2,
+      "units": 12.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-04-04",
+      "revenue": 795.64,
+      "units": 13.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-04-05",
+      "revenue": 1114.03,
+      "units": 25.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-04-06",
+      "revenue": 931.29,
+      "units": 16.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2025-04-07",
+      "revenue": 418.7,
+      "units": 11.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-04-08",
+      "revenue": 558.32,
+      "units": 12.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2025-04-09",
+      "revenue": 405.02,
+      "units": 9.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-04-10",
+      "revenue": 984.25,
+      "units": 18.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-04-11",
+      "revenue": 1438.59,
+      "units": 29.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2025-04-12",
+      "revenue": 864.18,
+      "units": 18.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-04-13",
+      "revenue": 446.24,
+      "units": 10.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2025-04-14",
+      "revenue": 1295.66,
+      "units": 23.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-04-15",
+      "revenue": 894.7,
+      "units": 15.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-04-16",
+      "revenue": 1181.84,
+      "units": 25.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2025-04-17",
+      "revenue": 812.32,
+      "units": 18.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2025-04-18",
+      "revenue": 1124.12,
+      "units": 25.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-04-19",
+      "revenue": 603.05,
+      "units": 16.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-04-20",
+      "revenue": 518.19,
+      "units": 11.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2025-04-21",
+      "revenue": 1158.39,
+      "units": 21.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-04-22",
+      "revenue": 392.08,
+      "units": 7.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2025-04-23",
+      "revenue": 1004.65,
+      "units": 27.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-04-24",
+      "revenue": 1915.84,
+      "units": 41.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-04-25",
+      "revenue": 751.38,
+      "units": 14.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-04-26",
+      "revenue": 1104.98,
+      "units": 23.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-04-27",
+      "revenue": 1134.7,
+      "units": 30.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-04-28",
+      "revenue": 875.39,
+      "units": 23.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2025-04-29",
+      "revenue": 1013.44,
+      "units": 23.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2025-04-30",
+      "revenue": 730.7,
+      "units": 15.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-05-01",
+      "revenue": 932.6,
+      "units": 16.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-05-02",
+      "revenue": 575.37,
+      "units": 13.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2025-05-03",
+      "revenue": 1551.48,
+      "units": 29.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-05-04",
+      "revenue": 1256.53,
+      "units": 31.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-05-05",
+      "revenue": 856.78,
+      "units": 18.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2025-05-06",
+      "revenue": 560.74,
+      "units": 17.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2025-05-07",
+      "revenue": 1249.18,
+      "units": 22.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-05-08",
+      "revenue": 599.24,
+      "units": 15.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-05-09",
+      "revenue": 1230.12,
+      "units": 28.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2025-05-10",
+      "revenue": 1039.4,
+      "units": 20.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2025-05-11",
+      "revenue": 1824.86,
+      "units": 33.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2025-05-12",
+      "revenue": 672.04,
+      "units": 19.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2025-05-13",
+      "revenue": 270.88,
+      "units": 5.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2025-05-14",
+      "revenue": 1099.81,
+      "units": 25.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2025-05-15",
+      "revenue": 1165.72,
+      "units": 25.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2025-05-16",
+      "revenue": 671.23,
+      "units": 15.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2025-05-17",
+      "revenue": 1709.4,
+      "units": 32.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-05-18",
+      "revenue": 1240.69,
+      "units": 23.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2025-05-19",
+      "revenue": 1354.91,
+      "units": 28.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-05-20",
+      "revenue": 1219.01,
+      "units": 27.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-05-21",
+      "revenue": 1109.8,
+      "units": 26.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2025-05-22",
+      "revenue": 1191.77,
+      "units": 27.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2025-05-23",
+      "revenue": 1011.38,
+      "units": 22.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2025-05-24",
+      "revenue": 1416.87,
+      "units": 28.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-05-25",
+      "revenue": 1501.94,
+      "units": 34.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-05-26",
+      "revenue": 1665.95,
+      "units": 35.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-05-27",
+      "revenue": 1216.23,
+      "units": 27.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-05-28",
+      "revenue": 1682.68,
+      "units": 36.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-05-29",
+      "revenue": 894.32,
+      "units": 18.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-05-30",
+      "revenue": 1155.54,
+      "units": 28.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2025-05-31",
+      "revenue": 1017.98,
+      "units": 20.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-06-01",
+      "revenue": 1983.58,
+      "units": 47.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-06-02",
+      "revenue": 1614.58,
+      "units": 31.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2025-06-03",
+      "revenue": 1183.83,
+      "units": 33.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-06-04",
+      "revenue": 1944.97,
+      "units": 38.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-06-05",
+      "revenue": 876.54,
+      "units": 18.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2025-06-06",
+      "revenue": 2333.75,
+      "units": 44.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-06-07",
+      "revenue": 1509.2,
+      "units": 33.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-06-08",
+      "revenue": 1117.25,
+      "units": 26.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-06-09",
+      "revenue": 2167.59,
+      "units": 43.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-06-10",
+      "revenue": 1594.2,
+      "units": 35.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-06-11",
+      "revenue": 1074.64,
+      "units": 26.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2025-06-12",
+      "revenue": 1486.62,
+      "units": 33.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-06-13",
+      "revenue": 1254.4,
+      "units": 26.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-06-14",
+      "revenue": 2017.48,
+      "units": 36.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-06-15",
+      "revenue": 2371.0,
+      "units": 51.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-06-16",
+      "revenue": 1179.15,
+      "units": 26.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2025-06-17",
+      "revenue": 2159.52,
+      "units": 41.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-06-18",
+      "revenue": 1343.89,
+      "units": 32.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-06-19",
+      "revenue": 1763.6,
+      "units": 34.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-06-20",
+      "revenue": 1428.92,
+      "units": 31.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-06-21",
+      "revenue": 2001.54,
+      "units": 48.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-06-22",
+      "revenue": 1192.05,
+      "units": 26.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2025-06-23",
+      "revenue": 1344.24,
+      "units": 28.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-06-24",
+      "revenue": 1564.53,
+      "units": 29.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-06-25",
+      "revenue": 582.68,
+      "units": 17.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2025-06-26",
+      "revenue": 2169.81,
+      "units": 47.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-06-27",
+      "revenue": 1106.94,
+      "units": 24.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2025-06-28",
+      "revenue": 1267.44,
+      "units": 28.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-06-29",
+      "revenue": 1731.17,
+      "units": 42.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-06-30",
+      "revenue": 1469.59,
+      "units": 29.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-07-01",
+      "revenue": 2383.81,
+      "units": 43.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-07-02",
+      "revenue": 1111.26,
+      "units": 26.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-07-03",
+      "revenue": 1166.91,
+      "units": 28.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-07-04",
+      "revenue": 1179.89,
+      "units": 25.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2025-07-05",
+      "revenue": 2198.88,
+      "units": 47.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-07-06",
+      "revenue": 1348.28,
+      "units": 28.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-07-07",
+      "revenue": 2091.11,
+      "units": 47.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-07-08",
+      "revenue": 1115.37,
+      "units": 22.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2025-07-09",
+      "revenue": 2025.33,
+      "units": 45.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-07-10",
+      "revenue": 1410.33,
+      "units": 32.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-07-11",
+      "revenue": 2091.0,
+      "units": 42.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-07-12",
+      "revenue": 1849.22,
+      "units": 41.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-07-13",
+      "revenue": 2531.69,
+      "units": 46.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-07-14",
+      "revenue": 1875.06,
+      "units": 43.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-07-15",
+      "revenue": 1245.35,
+      "units": 29.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-07-16",
+      "revenue": 2388.74,
+      "units": 45.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-07-17",
+      "revenue": 1613.84,
+      "units": 35.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-07-18",
+      "revenue": 2400.82,
+      "units": 47.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-07-19",
+      "revenue": 2335.53,
+      "units": 49.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-07-20",
+      "revenue": 1627.67,
+      "units": 34.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-07-21",
+      "revenue": 2599.95,
+      "units": 53.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-07-22",
+      "revenue": 2721.29,
+      "units": 52.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-07-23",
+      "revenue": 2253.25,
+      "units": 49.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-07-24",
+      "revenue": 2712.09,
+      "units": 56.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-07-25",
+      "revenue": 2953.69,
+      "units": 64.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-07-26",
+      "revenue": 2484.47,
+      "units": 53.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-07-27",
+      "revenue": 1927.36,
+      "units": 52.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-07-28",
+      "revenue": 1552.32,
+      "units": 30.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2025-07-29",
+      "revenue": 2256.26,
+      "units": 41.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-07-30",
+      "revenue": 2300.72,
+      "units": 49.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-07-31",
+      "revenue": 2441.24,
+      "units": 44.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-08-01",
+      "revenue": 1651.48,
+      "units": 35.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2025-08-02",
+      "revenue": 1779.93,
+      "units": 31.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-08-03",
+      "revenue": 3164.5,
+      "units": 60.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-08-04",
+      "revenue": 2200.96,
+      "units": 42.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-08-05",
+      "revenue": 1774.85,
+      "units": 34.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-08-06",
+      "revenue": 1420.95,
+      "units": 37.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-08-07",
+      "revenue": 3059.34,
+      "units": 60.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-08-08",
+      "revenue": 2829.19,
+      "units": 59.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-08-09",
+      "revenue": 2126.85,
+      "units": 44.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-08-10",
+      "revenue": 1940.74,
+      "units": 38.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-08-11",
+      "revenue": 2569.75,
+      "units": 54.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-08-12",
+      "revenue": 1215.29,
+      "units": 27.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-08-13",
+      "revenue": 2310.32,
+      "units": 45.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-08-14",
+      "revenue": 2343.0,
+      "units": 44.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-08-15",
+      "revenue": 2368.07,
+      "units": 53.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-08-16",
+      "revenue": 2033.92,
+      "units": 41.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-08-17",
+      "revenue": 2222.25,
+      "units": 49.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-08-18",
+      "revenue": 2834.15,
+      "units": 60.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-08-19",
+      "revenue": 2464.01,
+      "units": 57.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-08-20",
+      "revenue": 1800.59,
+      "units": 40.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-08-21",
+      "revenue": 2725.03,
+      "units": 56.0,
+      "orders": 35.0
+    },
+    {
+      "date": "2025-08-22",
+      "revenue": 2358.51,
+      "units": 48.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-08-23",
+      "revenue": 2036.22,
+      "units": 44.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-08-24",
+      "revenue": 3226.69,
+      "units": 66.0,
+      "orders": 40.0
+    },
+    {
+      "date": "2025-08-25",
+      "revenue": 1893.36,
+      "units": 40.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-08-26",
+      "revenue": 2337.69,
+      "units": 51.0,
+      "orders": 35.0
+    },
+    {
+      "date": "2025-08-27",
+      "revenue": 1859.08,
+      "units": 40.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-08-28",
+      "revenue": 2676.23,
+      "units": 60.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-08-29",
+      "revenue": 1955.64,
+      "units": 43.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-08-30",
+      "revenue": 1971.78,
+      "units": 44.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-08-31",
+      "revenue": 3107.22,
+      "units": 64.0,
+      "orders": 44.0
+    },
+    {
+      "date": "2025-09-01",
+      "revenue": 2780.18,
+      "units": 57.0,
+      "orders": 42.0
+    },
+    {
+      "date": "2025-09-02",
+      "revenue": 2013.33,
+      "units": 47.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-09-03",
+      "revenue": 1879.86,
+      "units": 37.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-09-04",
+      "revenue": 2167.21,
+      "units": 54.0,
+      "orders": 35.0
+    },
+    {
+      "date": "2025-09-05",
+      "revenue": 2292.11,
+      "units": 51.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-09-06",
+      "revenue": 2142.79,
+      "units": 46.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-09-07",
+      "revenue": 2266.67,
+      "units": 44.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-09-08",
+      "revenue": 1833.14,
+      "units": 39.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-09-09",
+      "revenue": 1752.05,
+      "units": 40.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-09-10",
+      "revenue": 2552.18,
+      "units": 54.0,
+      "orders": 37.0
+    },
+    {
+      "date": "2025-09-11",
+      "revenue": 3109.43,
+      "units": 65.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-09-12",
+      "revenue": 2858.96,
+      "units": 59.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-09-13",
+      "revenue": 2670.41,
+      "units": 56.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-09-14",
+      "revenue": 1813.87,
+      "units": 45.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-09-15",
+      "revenue": 2561.96,
+      "units": 50.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-09-16",
+      "revenue": 2745.1,
+      "units": 59.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-09-17",
+      "revenue": 2360.45,
+      "units": 52.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-09-18",
+      "revenue": 3301.15,
+      "units": 67.0,
+      "orders": 40.0
+    },
+    {
+      "date": "2025-09-19",
+      "revenue": 1829.89,
+      "units": 38.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-09-20",
+      "revenue": 2695.65,
+      "units": 57.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-09-21",
+      "revenue": 3303.44,
+      "units": 67.0,
+      "orders": 43.0
+    },
+    {
+      "date": "2025-09-22",
+      "revenue": 2945.35,
+      "units": 71.0,
+      "orders": 43.0
+    },
+    {
+      "date": "2025-09-23",
+      "revenue": 1863.34,
+      "units": 40.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-09-24",
+      "revenue": 2633.47,
+      "units": 52.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-09-25",
+      "revenue": 2743.22,
+      "units": 54.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-09-26",
+      "revenue": 2276.09,
+      "units": 49.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-09-27",
+      "revenue": 2358.45,
+      "units": 49.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-09-28",
+      "revenue": 2755.85,
+      "units": 57.0,
+      "orders": 43.0
+    },
+    {
+      "date": "2025-09-29",
+      "revenue": 2068.97,
+      "units": 41.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-09-30",
+      "revenue": 2273.98,
+      "units": 49.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-10-01",
+      "revenue": 2118.89,
+      "units": 47.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-10-02",
+      "revenue": 2026.28,
+      "units": 44.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-10-03",
+      "revenue": 2009.33,
+      "units": 39.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-10-04",
+      "revenue": 2510.63,
+      "units": 58.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-10-05",
+      "revenue": 2591.13,
+      "units": 56.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-10-06",
+      "revenue": 2612.36,
+      "units": 59.0,
+      "orders": 40.0
+    },
+    {
+      "date": "2025-10-07",
+      "revenue": 2563.9,
+      "units": 53.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-10-08",
+      "revenue": 2598.17,
+      "units": 56.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-10-09",
+      "revenue": 1506.58,
+      "units": 38.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-10-10",
+      "revenue": 1502.59,
+      "units": 38.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-10-11",
+      "revenue": 1392.87,
+      "units": 38.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2025-10-12",
+      "revenue": 3231.95,
+      "units": 68.0,
+      "orders": 45.0
+    },
+    {
+      "date": "2025-10-13",
+      "revenue": 1656.14,
+      "units": 41.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-10-14",
+      "revenue": 3249.58,
+      "units": 66.0,
+      "orders": 41.0
+    },
+    {
+      "date": "2025-10-15",
+      "revenue": 3004.61,
+      "units": 61.0,
+      "orders": 37.0
+    },
+    {
+      "date": "2025-10-16",
+      "revenue": 2726.27,
+      "units": 54.0,
+      "orders": 40.0
+    },
+    {
+      "date": "2025-10-17",
+      "revenue": 1459.29,
+      "units": 34.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-10-18",
+      "revenue": 2694.8,
+      "units": 57.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-10-19",
+      "revenue": 2475.75,
+      "units": 57.0,
+      "orders": 41.0
+    },
+    {
+      "date": "2025-10-20",
+      "revenue": 1936.34,
+      "units": 41.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-10-21",
+      "revenue": 2658.07,
+      "units": 46.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-10-22",
+      "revenue": 2281.58,
+      "units": 48.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-10-23",
+      "revenue": 1964.01,
+      "units": 45.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-10-24",
+      "revenue": 1633.29,
+      "units": 41.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-10-25",
+      "revenue": 2522.56,
+      "units": 53.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-10-26",
+      "revenue": 2371.66,
+      "units": 51.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-10-27",
+      "revenue": 2786.61,
+      "units": 63.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-10-28",
+      "revenue": 2242.22,
+      "units": 42.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-10-29",
+      "revenue": 1675.51,
+      "units": 39.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-10-30",
+      "revenue": 1915.64,
+      "units": 45.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-10-31",
+      "revenue": 2494.02,
+      "units": 49.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-11-01",
+      "revenue": 2781.57,
+      "units": 64.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-11-02",
+      "revenue": 2086.48,
+      "units": 46.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-11-03",
+      "revenue": 1660.68,
+      "units": 37.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-11-04",
+      "revenue": 2133.69,
+      "units": 46.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-11-05",
+      "revenue": 2787.82,
+      "units": 58.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-11-06",
+      "revenue": 3057.78,
+      "units": 59.0,
+      "orders": 41.0
+    },
+    {
+      "date": "2025-11-07",
+      "revenue": 1630.98,
+      "units": 41.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2025-11-08",
+      "revenue": 2198.77,
+      "units": 45.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-11-09",
+      "revenue": 2638.69,
+      "units": 54.0,
+      "orders": 35.0
+    },
+    {
+      "date": "2025-11-10",
+      "revenue": 2574.16,
+      "units": 54.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-11-11",
+      "revenue": 2083.35,
+      "units": 49.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-11-12",
+      "revenue": 1788.4,
+      "units": 39.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-11-13",
+      "revenue": 3401.08,
+      "units": 76.0,
+      "orders": 44.0
+    },
+    {
+      "date": "2025-11-14",
+      "revenue": 2129.16,
+      "units": 50.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-11-15",
+      "revenue": 2052.16,
+      "units": 52.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-11-16",
+      "revenue": 2509.91,
+      "units": 50.0,
+      "orders": 38.0
+    },
+    {
+      "date": "2025-11-17",
+      "revenue": 3818.3,
+      "units": 76.0,
+      "orders": 50.0
+    },
+    {
+      "date": "2025-11-18",
+      "revenue": 2232.14,
+      "units": 41.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-11-19",
+      "revenue": 1975.63,
+      "units": 39.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-11-20",
+      "revenue": 3064.28,
+      "units": 61.0,
+      "orders": 37.0
+    },
+    {
+      "date": "2025-11-21",
+      "revenue": 2540.5,
+      "units": 63.0,
+      "orders": 41.0
+    },
+    {
+      "date": "2025-11-22",
+      "revenue": 3118.72,
+      "units": 72.0,
+      "orders": 43.0
+    },
+    {
+      "date": "2025-11-23",
+      "revenue": 1388.47,
+      "units": 35.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-11-24",
+      "revenue": 4372.47,
+      "units": 87.0,
+      "orders": 45.0
+    },
+    {
+      "date": "2025-11-25",
+      "revenue": 2009.06,
+      "units": 50.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-11-26",
+      "revenue": 2653.74,
+      "units": 53.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-11-27",
+      "revenue": 2734.3,
+      "units": 63.0,
+      "orders": 40.0
+    },
+    {
+      "date": "2025-11-28",
+      "revenue": 3444.83,
+      "units": 69.0,
+      "orders": 42.0
+    },
+    {
+      "date": "2025-11-29",
+      "revenue": 1741.29,
+      "units": 38.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-11-30",
+      "revenue": 1998.53,
+      "units": 44.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-12-01",
+      "revenue": 1865.67,
+      "units": 45.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-12-02",
+      "revenue": 2521.49,
+      "units": 53.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-12-03",
+      "revenue": 2541.28,
+      "units": 46.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-12-04",
+      "revenue": 1987.06,
+      "units": 44.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2025-12-05",
+      "revenue": 1792.58,
+      "units": 42.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-12-06",
+      "revenue": 2372.73,
+      "units": 52.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-12-07",
+      "revenue": 1537.99,
+      "units": 37.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-12-08",
+      "revenue": 2971.2,
+      "units": 58.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-12-09",
+      "revenue": 2675.22,
+      "units": 59.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-12-10",
+      "revenue": 1837.35,
+      "units": 39.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-12-11",
+      "revenue": 2302.91,
+      "units": 42.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2025-12-12",
+      "revenue": 2032.74,
+      "units": 44.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-12-13",
+      "revenue": 2809.0,
+      "units": 60.0,
+      "orders": 42.0
+    },
+    {
+      "date": "2025-12-14",
+      "revenue": 2685.63,
+      "units": 57.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-12-15",
+      "revenue": 2281.96,
+      "units": 43.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-12-16",
+      "revenue": 1730.54,
+      "units": 35.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2025-12-17",
+      "revenue": 2120.01,
+      "units": 41.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2025-12-18",
+      "revenue": 1386.37,
+      "units": 29.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2025-12-19",
+      "revenue": 2452.98,
+      "units": 45.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2025-12-20",
+      "revenue": 3212.43,
+      "units": 70.0,
+      "orders": 44.0
+    },
+    {
+      "date": "2025-12-21",
+      "revenue": 2652.94,
+      "units": 63.0,
+      "orders": 39.0
+    },
+    {
+      "date": "2025-12-22",
+      "revenue": 2880.0,
+      "units": 68.0,
+      "orders": 37.0
+    },
+    {
+      "date": "2025-12-23",
+      "revenue": 3164.17,
+      "units": 58.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-12-24",
+      "revenue": 1834.13,
+      "units": 40.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2025-12-25",
+      "revenue": 2051.4,
+      "units": 44.0,
+      "orders": 35.0
+    },
+    {
+      "date": "2025-12-26",
+      "revenue": 2367.96,
+      "units": 57.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2025-12-27",
+      "revenue": 2876.0,
+      "units": 64.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2025-12-28",
+      "revenue": 2341.51,
+      "units": 55.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2025-12-29",
+      "revenue": 2159.76,
+      "units": 43.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2025-12-30",
+      "revenue": 2143.7,
+      "units": 52.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2025-12-31",
+      "revenue": 1821.77,
+      "units": 50.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2026-01-01",
+      "revenue": 2129.43,
+      "units": 46.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2026-01-02",
+      "revenue": 2125.72,
+      "units": 42.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2026-01-03",
+      "revenue": 1365.88,
+      "units": 31.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2026-01-04",
+      "revenue": 1619.1,
+      "units": 40.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2026-01-05",
+      "revenue": 1992.34,
+      "units": 42.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2026-01-06",
+      "revenue": 2417.0,
+      "units": 49.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2026-01-07",
+      "revenue": 2949.02,
+      "units": 52.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2026-01-08",
+      "revenue": 2364.46,
+      "units": 52.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2026-01-09",
+      "revenue": 2727.68,
+      "units": 52.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2026-01-10",
+      "revenue": 2604.02,
+      "units": 60.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2026-01-11",
+      "revenue": 2650.27,
+      "units": 55.0,
+      "orders": 40.0
+    },
+    {
+      "date": "2026-01-12",
+      "revenue": 1647.37,
+      "units": 38.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2026-01-13",
+      "revenue": 2750.08,
+      "units": 55.0,
+      "orders": 34.0
+    },
+    {
+      "date": "2026-01-14",
+      "revenue": 2200.94,
+      "units": 44.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2026-01-15",
+      "revenue": 1805.62,
+      "units": 39.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2026-01-16",
+      "revenue": 2244.19,
+      "units": 47.0,
+      "orders": 29.0
+    },
+    {
+      "date": "2026-01-17",
+      "revenue": 1339.77,
+      "units": 27.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2026-01-18",
+      "revenue": 2488.11,
+      "units": 56.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2026-01-19",
+      "revenue": 2515.82,
+      "units": 56.0,
+      "orders": 32.0
+    },
+    {
+      "date": "2026-01-20",
+      "revenue": 2294.25,
+      "units": 44.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2026-01-21",
+      "revenue": 1220.59,
+      "units": 33.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2026-01-22",
+      "revenue": 1663.85,
+      "units": 34.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2026-01-23",
+      "revenue": 1514.46,
+      "units": 33.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2026-01-24",
+      "revenue": 1626.09,
+      "units": 37.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2026-01-25",
+      "revenue": 1734.83,
+      "units": 42.0,
+      "orders": 33.0
+    },
+    {
+      "date": "2026-01-26",
+      "revenue": 2287.18,
+      "units": 45.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2026-01-27",
+      "revenue": 1655.01,
+      "units": 33.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2026-01-28",
+      "revenue": 1635.17,
+      "units": 38.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2026-01-29",
+      "revenue": 1750.4,
+      "units": 36.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2026-01-30",
+      "revenue": 1849.61,
+      "units": 36.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2026-01-31",
+      "revenue": 1198.84,
+      "units": 25.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-02-01",
+      "revenue": 2843.49,
+      "units": 61.0,
+      "orders": 35.0
+    },
+    {
+      "date": "2026-02-02",
+      "revenue": 2525.13,
+      "units": 57.0,
+      "orders": 37.0
+    },
+    {
+      "date": "2026-02-03",
+      "revenue": 2019.41,
+      "units": 49.0,
+      "orders": 36.0
+    },
+    {
+      "date": "2026-02-04",
+      "revenue": 1931.05,
+      "units": 43.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2026-02-05",
+      "revenue": 1702.73,
+      "units": 43.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2026-02-06",
+      "revenue": 1434.82,
+      "units": 35.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2026-02-07",
+      "revenue": 1379.22,
+      "units": 27.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2026-02-08",
+      "revenue": 1057.56,
+      "units": 25.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2026-02-09",
+      "revenue": 1698.61,
+      "units": 32.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2026-02-10",
+      "revenue": 1102.43,
+      "units": 29.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2026-02-11",
+      "revenue": 1465.35,
+      "units": 37.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2026-02-12",
+      "revenue": 1511.15,
+      "units": 30.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2026-02-13",
+      "revenue": 1842.98,
+      "units": 39.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2026-02-14",
+      "revenue": 2484.39,
+      "units": 57.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2026-02-15",
+      "revenue": 1757.04,
+      "units": 36.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2026-02-16",
+      "revenue": 2582.84,
+      "units": 58.0,
+      "orders": 31.0
+    },
+    {
+      "date": "2026-02-17",
+      "revenue": 1185.52,
+      "units": 21.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2026-02-18",
+      "revenue": 1708.6,
+      "units": 40.0,
+      "orders": 28.0
+    },
+    {
+      "date": "2026-02-19",
+      "revenue": 1684.95,
+      "units": 37.0,
+      "orders": 26.0
+    },
+    {
+      "date": "2026-02-20",
+      "revenue": 1447.98,
+      "units": 29.0,
+      "orders": 22.0
+    },
+    {
+      "date": "2026-02-21",
+      "revenue": 2394.3,
+      "units": 52.0,
+      "orders": 27.0
+    },
+    {
+      "date": "2026-02-22",
+      "revenue": 1644.03,
+      "units": 30.0,
+      "orders": 23.0
+    },
+    {
+      "date": "2026-02-23",
+      "revenue": 1208.33,
+      "units": 30.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2026-02-24",
+      "revenue": 1524.43,
+      "units": 37.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2026-02-25",
+      "revenue": 997.09,
+      "units": 24.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2026-02-26",
+      "revenue": 1834.13,
+      "units": 38.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2026-02-27",
+      "revenue": 1089.59,
+      "units": 22.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2026-02-28",
+      "revenue": 807.44,
+      "units": 20.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-03-01",
+      "revenue": 1366.04,
+      "units": 30.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2026-03-02",
+      "revenue": 1684.36,
+      "units": 36.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2026-03-03",
+      "revenue": 1057.43,
+      "units": 26.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2026-03-04",
+      "revenue": 883.52,
+      "units": 17.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-03-05",
+      "revenue": 1224.68,
+      "units": 23.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-03-06",
+      "revenue": 1070.62,
+      "units": 24.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-03-07",
+      "revenue": 1507.95,
+      "units": 32.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2026-03-08",
+      "revenue": 1861.86,
+      "units": 36.0,
+      "orders": 24.0
+    },
+    {
+      "date": "2026-03-09",
+      "revenue": 2307.28,
+      "units": 50.0,
+      "orders": 30.0
+    },
+    {
+      "date": "2026-03-10",
+      "revenue": 2308.08,
+      "units": 49.0,
+      "orders": 25.0
+    },
+    {
+      "date": "2026-03-11",
+      "revenue": 1244.22,
+      "units": 28.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2026-03-12",
+      "revenue": 1073.39,
+      "units": 19.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2026-03-13",
+      "revenue": 1630.35,
+      "units": 34.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2026-03-14",
+      "revenue": 1307.9,
+      "units": 24.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2026-03-15",
+      "revenue": 1533.17,
+      "units": 29.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-03-16",
+      "revenue": 1378.13,
+      "units": 32.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2026-03-17",
+      "revenue": 1008.19,
+      "units": 23.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2026-03-18",
+      "revenue": 1555.78,
+      "units": 29.0,
+      "orders": 21.0
+    },
+    {
+      "date": "2026-03-19",
+      "revenue": 869.69,
+      "units": 16.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2026-03-20",
+      "revenue": 1063.04,
+      "units": 25.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-03-21",
+      "revenue": 801.38,
+      "units": 19.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2026-03-22",
+      "revenue": 1176.71,
+      "units": 30.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2026-03-23",
+      "revenue": 1256.21,
+      "units": 27.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-03-24",
+      "revenue": 1225.95,
+      "units": 28.0,
+      "orders": 20.0
+    },
+    {
+      "date": "2026-03-25",
+      "revenue": 1134.58,
+      "units": 27.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2026-03-26",
+      "revenue": 1023.8,
+      "units": 23.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2026-03-27",
+      "revenue": 893.59,
+      "units": 21.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-03-28",
+      "revenue": 1247.72,
+      "units": 26.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2026-03-29",
+      "revenue": 939.81,
+      "units": 18.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-03-30",
+      "revenue": 1095.4,
+      "units": 23.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-03-31",
+      "revenue": 1035.38,
+      "units": 21.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2026-04-01",
+      "revenue": 1067.64,
+      "units": 24.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-04-02",
+      "revenue": 1493.04,
+      "units": 26.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-04-03",
+      "revenue": 933.77,
+      "units": 17.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-04-04",
+      "revenue": 1277.24,
+      "units": 24.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2026-04-05",
+      "revenue": 1097.65,
+      "units": 25.0,
+      "orders": 19.0
+    },
+    {
+      "date": "2026-04-06",
+      "revenue": 1101.03,
+      "units": 28.0,
+      "orders": 18.0
+    },
+    {
+      "date": "2026-04-07",
+      "revenue": 531.44,
+      "units": 11.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-04-08",
+      "revenue": 918.68,
+      "units": 19.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-04-09",
+      "revenue": 464.14,
+      "units": 9.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-04-10",
+      "revenue": 707.22,
+      "units": 16.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2026-04-11",
+      "revenue": 740.24,
+      "units": 16.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-04-12",
+      "revenue": 450.04,
+      "units": 12.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-04-13",
+      "revenue": 1253.8,
+      "units": 25.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2026-04-14",
+      "revenue": 959.8,
+      "units": 18.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2026-04-15",
+      "revenue": 803.14,
+      "units": 14.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-04-16",
+      "revenue": 576.86,
+      "units": 15.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-04-17",
+      "revenue": 705.66,
+      "units": 14.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-04-18",
+      "revenue": 810.62,
+      "units": 22.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-04-19",
+      "revenue": 1173.95,
+      "units": 26.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-04-20",
+      "revenue": 549.73,
+      "units": 11.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2026-04-21",
+      "revenue": 589.78,
+      "units": 13.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2026-04-22",
+      "revenue": 280.07,
+      "units": 7.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-04-23",
+      "revenue": 848.22,
+      "units": 18.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-04-24",
+      "revenue": 1443.35,
+      "units": 32.0,
+      "orders": 17.0
+    },
+    {
+      "date": "2026-04-25",
+      "revenue": 661.98,
+      "units": 14.0,
+      "orders": 12.0
+    },
+    {
+      "date": "2026-04-26",
+      "revenue": 1504.15,
+      "units": 27.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-04-27",
+      "revenue": 647.49,
+      "units": 13.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-04-28",
+      "revenue": 1377.44,
+      "units": 25.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2026-04-29",
+      "revenue": 746.85,
+      "units": 14.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-04-30",
+      "revenue": 828.06,
+      "units": 16.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-05-01",
+      "revenue": 1243.6,
+      "units": 25.0,
+      "orders": 16.0
+    },
+    {
+      "date": "2026-05-02",
+      "revenue": 652.8,
+      "units": 15.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2026-05-03",
+      "revenue": 590.46,
+      "units": 11.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-05-04",
+      "revenue": 688.05,
+      "units": 17.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-05-05",
+      "revenue": 1153.12,
+      "units": 25.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-05-06",
+      "revenue": 1089.63,
+      "units": 24.0,
+      "orders": 15.0
+    },
+    {
+      "date": "2026-05-07",
+      "revenue": 382.4,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-05-08",
+      "revenue": 314.39,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-05-09",
+      "revenue": 1149.38,
+      "units": 26.0,
+      "orders": 14.0
+    },
+    {
+      "date": "2026-05-10",
+      "revenue": 968.27,
+      "units": 25.0,
+      "orders": 13.0
+    },
+    {
+      "date": "2026-05-11",
+      "revenue": 387.99,
+      "units": 10.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-05-12",
+      "revenue": 545.03,
+      "units": 12.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2026-05-13",
+      "revenue": 543.48,
+      "units": 10.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2026-05-14",
+      "revenue": 569.38,
+      "units": 12.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-05-15",
+      "revenue": 395.94,
+      "units": 11.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-05-16",
+      "revenue": 820.55,
+      "units": 16.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-05-17",
+      "revenue": 221.04,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-05-18",
+      "revenue": 262.85,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-05-19",
+      "revenue": 523.49,
+      "units": 11.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2026-05-20",
+      "revenue": 567.49,
+      "units": 11.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2026-05-21",
+      "revenue": 1142.39,
+      "units": 23.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-05-22",
+      "revenue": 687.79,
+      "units": 16.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2026-05-23",
+      "revenue": 733.77,
+      "units": 14.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-05-24",
+      "revenue": 844.1,
+      "units": 16.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2026-05-25",
+      "revenue": 366.94,
+      "units": 9.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-05-26",
+      "revenue": 148.59,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-05-27",
+      "revenue": 878.73,
+      "units": 16.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-05-28",
+      "revenue": 718.25,
+      "units": 14.0,
+      "orders": 10.0
+    },
+    {
+      "date": "2026-05-29",
+      "revenue": 616.94,
+      "units": 12.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-05-30",
+      "revenue": 390.89,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-05-31",
+      "revenue": 633.55,
+      "units": 11.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-06-01",
+      "revenue": 442.49,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-02",
+      "revenue": 578.38,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-03",
+      "revenue": 561.93,
+      "units": 12.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-06-04",
+      "revenue": 1197.0,
+      "units": 22.0,
+      "orders": 11.0
+    },
+    {
+      "date": "2026-06-05",
+      "revenue": 335.9,
+      "units": 8.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-06-06",
+      "revenue": 482.79,
+      "units": 13.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-06-07",
+      "revenue": 429.07,
+      "units": 8.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-06-08",
+      "revenue": 324.6,
+      "units": 5.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-09",
+      "revenue": 395.05,
+      "units": 12.0,
+      "orders": 9.0
+    },
+    {
+      "date": "2026-06-10",
+      "revenue": 84.0,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-06-11",
+      "revenue": 340.24,
+      "units": 7.0,
+      "orders": 7.0
+    },
+    {
+      "date": "2026-06-12",
+      "revenue": 802.64,
+      "units": 15.0,
+      "orders": 8.0
+    },
+    {
+      "date": "2026-06-13",
+      "revenue": 353.2,
+      "units": 6.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-06-14",
+      "revenue": 491.45,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-15",
+      "revenue": 350.99,
+      "units": 6.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-06-16",
+      "revenue": 669.7,
+      "units": 12.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-06-17",
+      "revenue": 255.95,
+      "units": 6.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-18",
+      "revenue": 515.85,
+      "units": 9.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-06-19",
+      "revenue": 539.55,
+      "units": 12.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-06-20",
+      "revenue": 195.23,
+      "units": 5.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-21",
+      "revenue": 280.1,
+      "units": 8.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-22",
+      "revenue": 24.75,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-06-23",
+      "revenue": 222.58,
+      "units": 5.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-24",
+      "revenue": 112.0,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-06-25",
+      "revenue": 165.5,
+      "units": 8.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-06-26",
+      "revenue": 462.25,
+      "units": 10.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-06-27",
+      "revenue": 406.84,
+      "units": 8.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-06-28",
+      "revenue": 215.0,
+      "units": 4.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-06-29",
+      "revenue": 26.7,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-06-30",
+      "revenue": 175.79,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-01",
+      "revenue": 87.6,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-02",
+      "revenue": 570.78,
+      "units": 12.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-07-03",
+      "revenue": 265.39,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-04",
+      "revenue": 106.0,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-05",
+      "revenue": 137.9,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-06",
+      "revenue": 74.5,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-07",
+      "revenue": 154.44,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-07-08",
+      "revenue": 136.0,
+      "units": 4.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-09",
+      "revenue": 69.25,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-07-10",
+      "revenue": 189.84,
+      "units": 4.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-07-11",
+      "revenue": 64.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-07-12",
+      "revenue": 87.5,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-13",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-07-14",
+      "revenue": 303.59,
+      "units": 10.0,
+      "orders": 5.0
+    },
+    {
+      "date": "2026-07-15",
+      "revenue": 180.9,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue": 93.0,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-07-17",
+      "revenue": 592.8,
+      "units": 11.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-07-18",
+      "revenue": 354.75,
+      "units": 6.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-19",
+      "revenue": 254.75,
+      "units": 5.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-20",
+      "revenue": 86.0,
+      "units": 3.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-21",
+      "revenue": 231.75,
+      "units": 5.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-22",
+      "revenue": 226.3,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-23",
+      "revenue": 76.0,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-07-24",
+      "revenue": 65.0,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-07-25",
+      "revenue": 84.89,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-26",
+      "revenue": 557.3,
+      "units": 9.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-07-27",
+      "revenue": 129.75,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-07-28",
+      "revenue": 141.78,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-29",
+      "revenue": 30.6,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-07-30",
+      "revenue": 132.25,
+      "units": 7.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-07-31",
+      "revenue": 248.4,
+      "units": 6.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-08-01",
+      "revenue": 625.95,
+      "units": 13.0,
+      "orders": 6.0
+    },
+    {
+      "date": "2026-08-02",
+      "revenue": 63.75,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-03",
+      "revenue": 101.49,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-08-04",
+      "revenue": 163.99,
+      "units": 3.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-08-05",
+      "revenue": 690.1,
+      "units": 10.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-08-06",
+      "revenue": 34.0,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-07",
+      "revenue": 25.25,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-08",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-09",
+      "revenue": 230.55,
+      "units": 4.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-08-10",
+      "revenue": 171.55,
+      "units": 5.0,
+      "orders": 4.0
+    },
+    {
+      "date": "2026-08-11",
+      "revenue": 38.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-12",
+      "revenue": 69.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-13",
+      "revenue": 14.0,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-14",
+      "revenue": 62.0,
+      "units": 4.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-15",
+      "revenue": 86.0,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-08-16",
+      "revenue": 51.59,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-17",
+      "revenue": 369.0,
+      "units": 5.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-08-18",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-19",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-20",
+      "revenue": 106.25,
+      "units": 5.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-08-21",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-22",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-23",
+      "revenue": 60.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-24",
+      "revenue": 68.99,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-25",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-26",
+      "revenue": 26.4,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-27",
+      "revenue": 83.77,
+      "units": 4.0,
+      "orders": 3.0
+    },
+    {
+      "date": "2026-08-28",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "revenue": 89.4,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-08-30",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-08-31",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-01",
+      "revenue": 30.0,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-02",
+      "revenue": 36.25,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-03",
+      "revenue": 20.39,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-04",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-05",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-06",
+      "revenue": 113.09,
+      "units": 2.0,
+      "orders": 2.0
+    },
+    {
+      "date": "2026-09-07",
+      "revenue": 71.0,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-08",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-09",
+      "revenue": 66.25,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-10",
+      "revenue": 38.5,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-11",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-12",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-13",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-14",
+      "revenue": 47.98,
+      "units": 2.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-15",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-16",
+      "revenue": 0.0,
+      "units": 0.0,
+      "orders": 0.0
+    },
+    {
+      "date": "2026-09-17",
+      "revenue": 73.2,
+      "units": 1.0,
+      "orders": 1.0
+    },
+    {
+      "date": "2026-09-18",
+      "revenue": 64.0,
+      "units": 1.0,
+      "orders": 1.0
+    }
+  ],
+  "authors": [
+    {
+      "authors": "Emil Rempel, Heriberto Kutch, Merle Rice",
+      "units": 198
+    },
+    {
+      "authors": "Mrs. Marlena Hahn",
+      "units": 197
+    },
+    {
+      "authors": "Lisbeth Homenick",
+      "units": 164
+    },
+    {
+      "authors": "Ms. Sol Friesen",
+      "units": 164
+    },
+    {
+      "authors": "Paul Yundt",
+      "units": 159
+    },
+    {
+      "authors": "Helga Vandervort DC",
+      "units": 150
+    },
+    {
+      "authors": "Jerold Runolfsson JD, Suellen Swaniawski PhD",
+      "units": 149
+    },
+    {
+      "authors": "Mrs. Ben Brekke",
+      "units": 140
+    },
+    {
+      "authors": "Deonna McCullough",
+      "units": 133
+    },
+    {
+      "authors": "Kaylene Willms VM",
+      "units": 129
+    },
+    {
+      "authors": "Mamie MacGyver DC",
+      "units": 129
+    },
+    {
+      "authors": "Caitlin Ward, Dianne Moen Jr.",
+      "units": 127
+    },
+    {
+      "authors": "Alonso Pagac, Alphonse Wisozk",
+      "units": 126
+    },
+    {
+      "authors": "Kyle Green Jr.",
+      "units": 122
+    },
+    {
+      "authors": "Alan Cormier",
+      "units": 118
+    },
+    {
+      "authors": "Bobby Brakus",
+      "units": 115
+    },
+    {
+      "authors": "Elmer Cronin",
+      "units": 115
+    },
+    {
+      "authors": "Laree Mayer, Rev. Katina Pagac, Tristan Gerlach",
+      "units": 115
+    },
+    {
+      "authors": "Mrs. Maye Collier",
+      "units": 115
+    },
+    {
+      "authors": "Zina Prohaska II",
+      "units": 115
+    }
+  ],
+  "customers": [
+    {
+      "ids": [
+        53347,
+        54809
+      ],
+      "spent": 1265.65,
+      "units": 25
+    },
+    {
+      "ids": [
+        54082,
+        55002,
+        55574
+      ],
+      "spent": 1088.98,
+      "units": 17
+    },
+    {
+      "ids": [
+        54374
+      ],
+      "spent": 1016.8,
+      "units": 21
+    },
+    {
+      "ids": [
+        55245,
+        56149
+      ],
+      "spent": 1012.24,
+      "units": 18
+    },
+    {
+      "ids": [
+        54315,
+        54700,
+        55989
+      ],
+      "spent": 1004.48,
+      "units": 17
+    },
+    {
+      "ids": [
+        53301,
+        55015,
+        55975
+      ],
+      "spent": 997.65,
+      "units": 19
+    },
+    {
+      "ids": [
+        55133
+      ],
+      "spent": 989.4,
+      "units": 14
+    },
+    {
+      "ids": [
+        55665
+      ],
+      "spent": 977.9,
+      "units": 15
+    },
+    {
+      "ids": [
+        53909
+      ],
+      "spent": 973.18,
+      "units": 20
+    },
+    {
+      "ids": [
+        53525,
+        55873
+      ],
+      "spent": 963.4,
+      "units": 15
+    },
+    {
+      "ids": [
+        53203,
+        55921
+      ],
+      "spent": 962.51,
+      "units": 16
+    },
+    {
+      "ids": [
+        53300,
+        54199
+      ],
+      "spent": 948.8,
+      "units": 15
+    },
+    {
+      "ids": [
+        53814,
+        53869
+      ],
+      "spent": 941.59,
+      "units": 18
+    },
+    {
+      "ids": [
+        55689
+      ],
+      "spent": 932.44,
+      "units": 19
+    },
+    {
+      "ids": [
+        55515
+      ],
+      "spent": 922.91,
+      "units": 19
+    },
+    {
+      "ids": [
+        53467,
+        54506
+      ],
+      "spent": 921.5,
+      "units": 18
+    },
+    {
+      "ids": [
+        53872
+      ],
+      "spent": 914.3,
+      "units": 17
+    },
+    {
+      "ids": [
+        54394
+      ],
+      "spent": 912.38,
+      "units": 17
+    },
+    {
+      "ids": [
+        53748,
+        54966
+      ],
+      "spent": 892.65,
+      "units": 18
+    },
+    {
+      "ids": [
+        53613
+      ],
+      "spent": 892.55,
+      "units": 15
+    }
+  ],
+  "quality": {
+    "input_users": 3008,
+    "input_books": 775,
+    "input_orders": 10877,
+    "users_exact_duplicates_removed": 0,
+    "books_exact_duplicates_removed": 0,
+    "orders_exact_duplicates_removed": 0,
+    "invalid_publication_years": 6,
+    "missing_book_authors": 0,
+    "missing_user_addresses": 121,
+    "invalid_dates": 0,
+    "invalid_prices": 0,
+    "orphan_user_ids": 0,
+    "orphan_book_ids": 0,
+    "accepted_orders": 10877,
+    "rejected_orders": 0,
+    "reconciliation_links": 158,
+    "reconciled_profiles": 158
+  }
+}
